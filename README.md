@@ -25,6 +25,8 @@ consumption will be on time(before expiry).
 ---
 # Installation and Configuration
 
+***It takes me lot of Time,Efforts,Research to build this awesome site, Do not forget to give me credit it***
+
 ```
 git clone https://github.com/github-usman/stock-near-you.git
 ```
@@ -34,4 +36,6 @@ npm install
 ```
 npm start
 ```
+# Collaboration
+Always welcome you to join, and contribute some new feature and make it better.
 
